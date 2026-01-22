@@ -54,11 +54,11 @@ Full Stack Developer | MERN Stack | Lifelong Learner
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chkrishnaa&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chkrishnaa&theme=tokyonight" />
 </p>
 
 ---
@@ -66,13 +66,10 @@ Full Stack Developer | MERN Stack | Lifelong Learner
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/krishnakumar-chaurashiya-07021a286/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:chkrishna6590@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
