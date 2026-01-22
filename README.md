@@ -9,10 +9,10 @@ Full Stack Developer | MERN Stack | Lifelong Learner
 </p>
 
 <p align="center">
-<img src="components/assets/GithubSnake.gif" alt="GitHub Contribution Snake" width="100%" />
+<img src="components/assets/GithubSnake.gif" alt="GitHub Contribution Snake" width="60%" />
 </p>
 
-![Github Snake](components/assets/Untitled.mov)
+
 
 ---
 
