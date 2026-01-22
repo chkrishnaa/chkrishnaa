@@ -8,6 +8,18 @@ Full Stack Developer | MERN Stack | Lifelong Learner
 <b>Always Learning, Always Building 🚀</b>
 </p>
 
+<p align="center">
+🌐 <b>Live Interactive Project</b>  
+<br/>
+👉 <a href="https://genuine-figolla-dcb78c.netlify.app/" target="_blank">
+GitHub Contribution Snake (Live Demo)
+</a>
+</p>
+
+<p align="center">
+<i>Click the link above to see the fully functional animation in action</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -17,6 +29,16 @@ Full Stack Developer | MERN Stack | Lifelong Learner
 - 📊 Enjoy creating dashboards and data-driven applications  
 - 🧠 Constantly improving problem-solving and system design skills  
 - 🚀 Love turning ideas into real-world products  
+
+---
+
+## 🐍 GitHub Contribution Snake – Preview
+
+<p align="center">
+  <a href="https://genuine-figolla-dcb78c.netlify.app/" target="_blank">
+    <img src="assets/snake.gif" alt="Contribution Snake Preview" width="700"/>
+  </a>
+</p>
 
 ---
 
