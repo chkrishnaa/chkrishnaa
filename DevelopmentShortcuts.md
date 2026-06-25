@@ -211,7 +211,7 @@ Use this **only** when deploying both frontend and backend in the **same Vercel 
     "backend": {
       "root": "backend",
       "routePrefix": "/_/backend",
-      "entrypoint": "server.js"
+      "entrypoint": "server.js"           //index.js if backend server file named as index.js
     }
   }
 }
@@ -223,12 +223,10 @@ Use this **only** when deploying both frontend and backend in the **same Vercel 
 project-root
 │
 ├── frontend/
-│   └── vercel.json
-│
 ├── backend/
-│   └── vercel.json
-│
-└── vercel.json
+├── .gitignore
+├── vercel.json           //Root vercel.json file
+└── README.md
 ```
 
 ---
